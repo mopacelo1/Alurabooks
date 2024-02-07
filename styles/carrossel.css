@@ -65,5 +65,8 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
+}
 
+.imagem__estrela{
+    padding: 1em 0;
 }
